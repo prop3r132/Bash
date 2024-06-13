@@ -1,0 +1,2 @@
+# Bash
+uploading scripts now.
