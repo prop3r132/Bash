@@ -1,4 +1,4 @@
-!#bin/bash /etc/bash
+!#bin/bash #/etc/bash will only be added on chromebook.
 
 ######################################################
 # Script name: knw_thy_slf.sh		             #
